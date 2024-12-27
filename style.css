@@ -1,0 +1,156 @@
+*{
+    margin: 0;
+    font-family: Arial;
+    border: order-box;
+}
+.navbar {
+    height: 60px;
+    background-color: #0f1111;
+    color: white;
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.nav-logo {
+height: 50px;
+width: 100px;
+
+}
+.logo {
+    background-size: cover;
+    height: 50px;
+    width: 100%;
+
+}
+.border {
+    border: 1.5px solid transparent;
+}
+.border:hover {
+   border: 1.5px solid white;
+}
+
+.address {
+color: #CCCCCC;
+font-size: 1rem;
+margin-left: 15px;
+}
+.location {
+font-size: 1.5rem;
+margin-left: 4px;
+}
+.add-icon {
+    align-items: center;
+    display:flex;
+}
+.nav-search {
+    display: flex;
+    background-color: #0f1111;
+    width: 620px;
+    height: 40px;
+    border-radius: 2px;
+    
+}
+.nav-search:hover{
+
+border: 3px solid #febd68;
+}
+
+.search-select {
+    background-color: #f3f3f3;
+    width: 50px;
+    text-align: center;
+   
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+    height: 40px;
+    border: none;
+   justify-content: space-evenly;
+}
+.search-input {
+    width: 100%;
+    font-size: 1.5rem;
+    border: none;
+    /* align-items: center;
+    height: 35px;
+   
+    height: 30.9px;
+    border-radius: 4px;
+*/
+}
+.search-icon {
+ width: 45px;
+display: flex;
+justify-content: center;
+align-items: center;
+border: none;
+font-size: 1.5rem;
+background-color: #febd68;
+border-top-right-radius: 4px;
+border-bottom-right-radius: 4px;
+}
+/* box 4 */
+.span {
+    font-size: 0.5rem;
+    padding-right: 5px;
+    padding-left: 5px;
+    
+}
+
+.nav-signin {
+    font-size: 0.9rem;
+    /* font-weight: 700; */
+}
+.add-cart {
+    font-size: 34px;
+    display: flex;
+}
+.nav-cart {
+   font-size: 0.9rem ;
+   display: flex;
+   font-weight: 700;
+
+}
+.panel {
+    display: flex;
+    background-color: #222f3d;
+    color: white;
+    height: 34px;
+   justify-content: space-evenly;
+   font-size: 14.4px;
+   
+}
+.panel-all {
+    font-weight: 700;
+}
+.panel-options {
+    display: flex;
+    width: 70%;
+    margin-left: 10px;
+}
+    .panel-deals {
+        font-weight: 700;
+    }
+ .hero-section {
+    background-image: url("hero_image.jpg");
+      display: flex;
+       height: 600px;
+        background-size: cover;
+    }
+    
+.hero-message {
+        background-color: #f5f6f6;
+        color: #0f1111;
+        height: 40px;
+        text-align: center;
+        font-size: 14px;
+        width: 90%; 
+        margin-top: 425px;
+        margin-left: 170px;
+        margin-right: 150px
+       
+    }
+    .hero-message a{
+        color: #007185;
+        font-size: 0.85rem;
+        margin-bottom: 75px;
+    }
