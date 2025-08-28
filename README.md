@@ -48,6 +48,7 @@ amazon_clone/
 
 
 ##  Acknowledgments  
-   Inspired by [Amazon](https://www.amazon.com) for design reference  
-   Icons from [Font Awesome](https://fontawesome.com/)  
-   Images from [Amazon](https://www.amazon.com) 
+   **Inspired** by [Amazon](https://www.amazon.com) for design reference  
+   **Icons** from [Font Awesome](https://fontawesome.com/)  
+   **Images** from [Amazon](https://www.amazon.com) 
+
