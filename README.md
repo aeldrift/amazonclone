@@ -1,4 +1,4 @@
-# Amazon Clone 🛒
+# 🛒 Amazon Clone
 
 A simple Amazon Clone built using only HTML and CSS. This project replicates the look and feel of the Amazon website with a responsive design and user-friendly layout.
 
@@ -10,12 +10,13 @@ A simple Amazon Clone built using only HTML and CSS. This project replicates the
 
 **Header & Footer:** Fully styled navigation bar and footer like Amazon
 
-Responsive Design: Works on desktop, tablet, and mobile devices
+**Responsive Design:** Works on desktop, tablet, and mobile devices
 
-Clean UI: Focus on structure and styling without JavaScript
+**Clean UI:** Focus on structure and styling without JavaScript
 
-Tech Stack 💻
+## Tech Stack 💻
 
-HTML5 for structure
+**HTML5** for structure
 
-CSS3 for styling and responsiveness
+**CSS3** for styling and responsiveness
+
