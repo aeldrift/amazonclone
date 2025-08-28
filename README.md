@@ -40,3 +40,8 @@ amazon_clone/
 └── README.md                # Project documentation
 
 
+
+## 🧠 Challenges Faced
+1. Structuring HTML and CSS for a complex layout
+2. Managing multiple product sections without frameworks
+3. Maintaining consistent styling across all sections
