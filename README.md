@@ -20,3 +20,10 @@ A simple Amazon Clone built using only HTML and CSS. This project replicates the
 
 **CSS3** for styling and responsiveness
 
+
+amazon_clone/
+│-- index.html # Main HTML page
+│-- style.css # CSS for styling
+│-- /assets # Images and other static files
+│ ├── images
+│-- README.md
