@@ -2,7 +2,7 @@
 
 A simple Amazon Clone built using only HTML and CSS. This project replicates the look and feel of the Amazon website with a responsive design and user-friendly layout.
 
-## Features 🚀
+## 🚀 Features 
 
 **Home Page:** Amazon-style landing page with product sections
 
@@ -14,7 +14,7 @@ A simple Amazon Clone built using only HTML and CSS. This project replicates the
 
 **Clean UI:** Focus on structure and styling without JavaScript
 
-## Tech Stack 💻
+## 💻 Tech Stack 
 
 **HTML5** for structure
 
@@ -51,4 +51,5 @@ amazon_clone/
    **Inspired** by [Amazon](https://www.amazon.com) for design reference  
    **Icons** from [Font Awesome](https://fontawesome.com/)  
    **Images** from [Amazon](https://www.amazon.com) 
+
 
