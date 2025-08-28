@@ -21,9 +21,21 @@ A simple Amazon Clone built using only HTML and CSS. This project replicates the
 **CSS3** for styling and responsiveness
 
 
+## 📂 Project Structure  
+
+```plaintext
 amazon_clone/
-│-- index.html # Main HTML page
-│-- style.css # CSS for styling
-│-- /assets # Images and other static files
-│ ├── images
-│-- README.md
+├── index.html               # Main homepage file
+├── style.css                # Main CSS stylesheet
+├── /assets                  # Static files (images, icons, etc.)
+│   ├── /images              # Product & banner images
+│   └── /icons               # Navigation & footer icons
+├── /css                     # Additional CSS (if needed)
+│   └── reset.css            # CSS reset or global styles
+├── /pages                   # Other HTML pages (optional)
+│   ├── product.html         # Product details page (if created)
+│   └── cart.html            # Cart page (if created)
+├── /docs                    # Documentation (if any)
+│   └── wireframe.png         # Project wireframes or diagrams
+├── README.md                # Project documentation
+└── LICENSE                  # License file
