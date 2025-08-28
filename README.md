@@ -46,3 +46,8 @@ amazon_clone/
 2. Managing multiple product sections without frameworks
 3. Maintaining consistent styling across all sections
 
+
+##  Acknowledgments  
+   Inspired by [Amazon](https://www.amazon.com) for design reference  
+   Icons from [Font Awesome](https://fontawesome.com/)  
+   Images from [Amazon](https://www.amazon.com) 
