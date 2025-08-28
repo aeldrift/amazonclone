@@ -10,7 +10,7 @@ A simple Amazon Clone built using only HTML and CSS. This project replicates the
 
 **Header & Footer:** Fully styled navigation bar and footer like Amazon
 
-**Responsive Design:** Works on desktop, tablet, and mobile devices
+<!-- **Responsive Design:** Works on desktop, tablet, and mobile devices -->
 
 **Clean UI:** Focus on structure and styling without JavaScript
 
@@ -51,5 +51,6 @@ amazon_clone/
    **Inspired** by [Amazon](https://www.amazon.com) for design reference  
    **Icons** from [Font Awesome](https://fontawesome.com/)  
    **Images** from [Amazon](https://www.amazon.com) 
+
 
 
