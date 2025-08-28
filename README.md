@@ -37,5 +37,6 @@ amazon_clone/
 │   └── cart.html            # Cart page (if created)
 ├── /docs                    # Documentation (if any)
 │   └── wireframe.png         # Project wireframes or diagrams
-├── README.md                # Project documentation
-└── LICENSE                  # License file
+└── README.md                # Project documentation
+
+
